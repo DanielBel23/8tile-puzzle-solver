@@ -2,8 +2,8 @@
 
 This project implements a command-line 8-puzzle solver using two algorithms:
 
-- **Breadth-First Search (BFS)**
-- **A* Search (with Manhattan distance and linear conflict heuristic)**
+- Breadth-First Search (BFS)
+- A* Search (with Manhattan distance and linear conflict heuristic)
 
 ---
 
